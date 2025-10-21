@@ -1,4 +1,4 @@
-# Yet another wuick test
+# Yet another quick test
 
 We will see what happens and lets see fea f serg
 
